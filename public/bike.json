@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Speedster 20",
+    "brand": "Scott",
+    "price": 1500,
+    "category": "Road Bike",
+    "image": "https://i.ibb.co.com/F7pJ96F/bike1.png",
+    "company_name": "Scott Sports"
+  },
+  {
+    "name": "Rockhopper Elite",
+    "brand": "Specialized",
+    "price": 1200,
+    "category": "Mountain Bike",
+    "image": "https://i.ibb.co.com/XSbkV0y/bike2.png",
+    "company_name": "Specialized Bicycle Components"
+  },
+  {
+    "name": "Domane SL 5",
+    "brand": "Trek",
+    "price": 2700,
+    "category": "Road Bike",
+    "image": "https://i.ibb.co.com/PmcVDfn/bike3.png",
+    "company_name": "Trek Bikes"
+  },
+  {
+    "name": "Powerfly 4",
+    "brand": "Trek",
+    "price": 3300,
+    "category": "Electric Bike",
+    "image": "https://i.ibb.co.com/cDjpmZF/bike5.png",
+    "company_name": "Trek Bikes"
+  },
+  {
+    "name": "Slash 9.9",
+    "brand": "Trek",
+    "price": 6000,
+    "category": "Mountain Bike",
+    "image": "https://i.ibb.co.com/KmxCbm0/bike6.png",
+    "company_name": "Trek Bikes"
+  },
+  {
+    "name": "Speedster 20",
+    "brand": "Scott",
+    "price": 1500,
+    "category": "Road Bike",
+    "image": "https://i.ibb.co.com/F7pJ96F/bike1.png",
+    "company_name": "Scott Sports"
+  },
+  {
+    "name": "Rockhopper Elite",
+    "brand": "Specialized",
+    "price": 1200,
+    "category": "Mountain Bike",
+    "image": "https://i.ibb.co.com/XSbkV0y/bike2.png",
+    "company_name": "Specialized Bicycle Components"
+  },
+  {
+    "name": "Domane SL 5",
+    "brand": "Trek",
+    "price": 2700,
+    "category": "Road Bike",
+    "image": "https://i.ibb.co.com/PmcVDfn/bike3.png",
+    "company_name": "Trek Bikes"
+  },
+  {
+    "name": "Powerfly 4",
+    "brand": "Trek",
+    "price": 3300,
+    "category": "Electric Bike",
+    "image": "https://i.ibb.co.com/cDjpmZF/bike5.png",
+    "company_name": "Trek Bikes"
+  },
+  {
+    "name": "Slash 9.9",
+    "brand": "Trek",
+    "price": 6000,
+    "category": "Mountain Bike",
+    "image": "https://i.ibb.co.com/KmxCbm0/bike6.png",
+    "company_name": "Trek Bikes"
+  }
+]

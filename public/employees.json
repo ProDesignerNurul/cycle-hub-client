@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Smith",
+    "ratings": 5,
+    "image": "https://i.ibb.co.com/SBk439j/1.png",
+    "feedback": "The website design is visually stunning, responsive, and user-friendly. The team captured our vision perfectly, delivering a site that not only looks amazing but also performs flawlessly. Their attention to detail and creativity exceeded our expectations. Highly recommended!"
+  },
+  {
+    "name": "Emily Davis",
+    "ratings": 4,
+    "image": "https://i.ibb.co.com/g9MbKFw/2.png",
+    "feedback": "We’re thrilled with the outcome! The site’s design is modern, clean, and optimized for all devices. Navigation is intuitive, and the functionality works without a hitch. The team was professional and delivered on time. It’s a pleasure to work with such skilled developers!"
+  },
+  {
+    "name": "Michael Johnson",
+    "ratings": 5,
+    "image": "https://i.ibb.co.com/tcGCNxP/3.png",
+    "feedback": "The development team created a website that’s both beautiful and practical. The responsive design ensures it looks great on all devices, and the user experience is smooth and intuitive. I appreciate the prompt communication and dedication throughout the process!"
+  },
+  {
+    "name": "Sophia Brown",
+    "ratings": 4,
+    "image": "https://i.ibb.co.com/PjPhTXY/4.png",
+    "feedback": "Our new website is everything we hoped for and more! The design is sleek, the performance is outstanding, and the attention to SEO details was a game-changer. This team is the perfect blend of technical expertise and creative talent. Thank you for an excellent job!"
+  },
+  {
+    "name": "Daniel Wilson",
+    "ratings": 5,
+    "image": "https://i.ibb.co.com/vJCbBc3/5.png",
+    "feedback": "Exceptional work on our website redesign! The layout is modern and engaging, and the features are tailored to our needs. It’s clear this team has a deep understanding of user experience and design principles. We’ve already received compliments from our customers!"
+  },
+  {
+    "name": "Olivia Taylor",
+    "ratings": 4,
+    "image": "https://i.ibb.co.com/zhQkk4Y/6.png",
+    "feedback": "From start to finish, the process was seamless. The web design is elegant and perfectly aligns with our brand. They also implemented features that improved site speed and SEO. Truly a team of professionals who understand what businesses need to succeed online!"
+  },
+  {
+    "name": "William Martinez",
+    "ratings": 5,
+    "image": "https://i.ibb.co.com/x1BBfbc/7.png",
+    "feedback": "I’m extremely satisfied with the web design and development services. The site is fast, visually appealing, and easy to navigate. The team’s dedication to ensuring every detail was perfect truly sets them apart. Looking forward to working with them again!"
+  },
+  {
+    "name": "Ava Garcia",
+    "ratings": 4,
+    "image": "https://i.ibb.co.com/ZXy4svY/8.png",
+    "feedback": "This team created a professional, responsive, and visually stunning website for our business. They were attentive to our feedback and made revisions promptly. The final product is better than we imagined, and we’ve already seen an increase in user engagement!"
+  },
+  {
+    "name": "James Rodriguez",
+    "ratings": 5,
+    "image": "https://i.ibb.co.com/kS5Sjjd/9.png",
+    "feedback": "The web design exceeded my expectations. It’s not only visually appealing but also highly functional. The team was responsive, innovative, and ensured every feature worked perfectly. I’m excited about the positive impact this site will have on my business!"
+  },
+  {
+    "name": "Isabella Hernandez",
+    "ratings": 4,
+    "image": "https://i.ibb.co.com/NxgYYjY/10.png",
+    "feedback": "Our website is now a true reflection of our brand, thanks to the amazing work by this team. The design is sleek and modern, and the features are tailored to our audience. They made the entire process stress-free and delivered a fantastic end product!"
+  }
+]
